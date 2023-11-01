@@ -1,5 +1,6 @@
 import React from "react";
-import ReactDOM from "react-dom/client"; // import ReactDOM from "react-dom/client"; // React V17
+import ReactDOM from "react-dom/client";
+// import ReactDOM from "react-dom/client"; // React V17
 import "./index.css";
 
 const pizzaData = [
